@@ -1,0 +1,5 @@
+C:\Users\mchic\source\repos\MesQualifications\cslQualifications\obj\Debug\net8.0\cslQualifications.csproj.AssemblyReference.cache
+C:\Users\mchic\source\repos\MesQualifications\cslQualifications\obj\Debug\net8.0\cslQualifications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mchic\source\repos\MesQualifications\cslQualifications\obj\Debug\net8.0\cslQualifications.AssemblyInfoInputs.cache
+C:\Users\mchic\source\repos\MesQualifications\cslQualifications\obj\Debug\net8.0\cslQualifications.AssemblyInfo.cs
+C:\Users\mchic\source\repos\MesQualifications\cslQualifications\obj\Debug\net8.0\cslQualifications.csproj.CoreCompileInputs.cache

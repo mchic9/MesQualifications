@@ -1,0 +1,11 @@
+C:\Users\mchic\source\repos\MesQualifications\MesQualifications\bin\Debug\net8.0\MesQualifications.deps.json
+C:\Users\mchic\source\repos\MesQualifications\MesQualifications\bin\Debug\net8.0\MesQualifications.dll
+C:\Users\mchic\source\repos\MesQualifications\MesQualifications\bin\Debug\net8.0\MesQualifications.pdb
+C:\Users\mchic\source\repos\MesQualifications\MesQualifications\obj\Debug\net8.0\MesQualifications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mchic\source\repos\MesQualifications\MesQualifications\obj\Debug\net8.0\MesQualifications.AssemblyInfoInputs.cache
+C:\Users\mchic\source\repos\MesQualifications\MesQualifications\obj\Debug\net8.0\MesQualifications.AssemblyInfo.cs
+C:\Users\mchic\source\repos\MesQualifications\MesQualifications\obj\Debug\net8.0\MesQualifications.csproj.CoreCompileInputs.cache
+C:\Users\mchic\source\repos\MesQualifications\MesQualifications\obj\Debug\net8.0\MesQualifications.dll
+C:\Users\mchic\source\repos\MesQualifications\MesQualifications\obj\Debug\net8.0\refint\MesQualifications.dll
+C:\Users\mchic\source\repos\MesQualifications\MesQualifications\obj\Debug\net8.0\MesQualifications.pdb
+C:\Users\mchic\source\repos\MesQualifications\MesQualifications\obj\Debug\net8.0\ref\MesQualifications.dll
